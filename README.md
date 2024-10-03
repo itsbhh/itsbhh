@@ -6,13 +6,14 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-44-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 🔍Welcome to the awesome github profiles repo project! 🌟.
-This README will guide you through the contribution process and provide essential information about the project.
+
+<p>This README will guide you through the contribution process and provide essential information about the project.</p>
 </div>
 
 <h3 style="color: #4A90E2;">Table of Contents</h3>
 
 <ul style="list-style-type: none;">
-  <li><a href="#profile" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Profiles</a></li>
+  <li><a href="#profiles" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Profiles</a></li>
   <li><a href="#code-of-conduct" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Code of Conduct</a></li>
   <li><a href="#how-to-fork" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">How to Fork</a></li>
   <li><a href="#tutorials" style="text-decoration: none; color: #4A90E2; transition: color 0.3s;">Tutorials</a></li>
@@ -260,7 +261,7 @@ To ensure a smooth collaboration process, Follow these steps:
 
 <h2 id="special-thanks">Special Thanks 🙇</h2>
 
-- [Dinesh Talwadker](https://github.com/dinxsh) [Hemant](https://github.com/dinxsh), [Nishant](https://github.com/dinxsh), [Ayushman](https://github.com/dinxsh)for being a core for this repo!
+- [Dinesh Talwadker](https://github.com/dinxsh) [Hemant](https://github.com/dinxsh), [Nishant](https://github.com/dinxsh), [Ayushman](https://github.com/dinxsh) for being a core for this repo!
 
 
 ## Contact Information
