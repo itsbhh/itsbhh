@@ -21,7 +21,7 @@ Welcome to repository of Station Guide
 - **[How to Contribute](#how-to-contribute)**
 - **[Code of Conduct](#code-of-conduct)**
 - **[How to Fork](#how-to-fork)**
-- **[Contributors](#contributors)**
+- **[Contributors ✨](#contributors-✨)**
 - **[Contact Information](#contact-information)**
 
 ## Using Station Guide
