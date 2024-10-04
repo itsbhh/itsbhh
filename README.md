@@ -153,7 +153,7 @@ To foster a positive and inclusive community, please adhere to the following gui
 
 Please read the [code of Conduct](CODE_OF_CONDUCT.md) for more clear understanding.
 
-## <h2 style="font-size:3rem;">Our Contributors <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="40" height="40" /></h2>
+## <h2 style="font-size:3rem;">Our Contributors</h2>
 
 <div align="center">
  
@@ -165,7 +165,7 @@ Please read the [code of Conduct](CODE_OF_CONDUCT.md) for more clear understandi
 
 ## Contact Information
 
-If you have questions, suggestions, or feedback, please reach out via email at email@example.com. You can also join our discussion forum [here](https://github.com/dhairyagothi/StationGuide/discussions).
+If you have questions, suggestions, or feedback, please reach out via email at email@example.com. You can also join our discussion forum [here](https://github.com/Anjaliavv51/Retro/discussions).
 
 We value open communication and are happy to help!
 
