@@ -15,14 +15,14 @@ Welcome to repository of Station Guide
 
 ## Table of Content
 
-- **Using Station Guide**: [Using Station Guide Section](#getting-started)
-- **Getting Started**: [Getting Started Section](#getting-started)
-- **Project Structure**: [Project Structure Section](#project-structure)
-- **How to Contribute**: [Contribution Guidelines Section](#how-to-contribute)
-- **Code of Conduct**: [Code of Conduct Section](#code-of-conduct)
-- **How to Fork**: [Code of Conduct Section](#how-to-fork)
-- **Contributors**: [Code of Conduct Section](#contributors)
-- **Contact Information**: [Code of Conduct Section](#contact-information)
+- **[Using Station Guide](#using-station-guide)**
+- **[Getting Started](#getting-started)**
+- **[Project Structure](#project-structure)**
+- **[How to Contribute](#how-to-contribute)**
+- **[Code of Conduct](#code-of-conduct)**
+- **[How to Fork](#how-to-fork)**
+- **[Contributors](#contributors)**
+- **[Contact Information](#contact-information)**
 
 ## Using Station Guide
 
@@ -56,7 +56,7 @@ You will see this interface in your system :
 
 ### 2. Running the Development Server
 
-### Frontend:
+#### Frontend:
 
 - Open a terminal or command prompt window.
 - Navigate to the frontend directory:
@@ -73,7 +73,7 @@ npm run dev
 
 This will typically launch the React application on http://localhost:3000 (or the specified port) in your browser.
 
-### Backend:
+#### Backend:
 
 - Open another terminal or command prompt window (separate from the frontend window).
 - Navigate to the backend directory:
@@ -114,7 +114,6 @@ StationGuide/
 Contributions are always welcome!
 To ensure a smooth collaboration process, Follow these steps:
 
-Please read the [contribution guidelines](contributing.md) first.
 
 1. **Fork the Repository:**
 
@@ -165,7 +164,7 @@ Please read the [contribution guidelines](contributing.md) first.
    - Navigate to the original repository where you want to propose your changes.
    - Click on "New Pull Request" and follow the instructions to submit your changes for review.
 
-Please refer to the detailed [contribution guidelines](contributing.md) for more information.
+Please refer to the detailed [contribution guidelines](CONTRIBUTING.md) for more information.
 
 ## Code of Conduct
 
@@ -202,7 +201,7 @@ Forking allows you to create a personal copy of the repository, where you can ex
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people  ( [emoji key](https://allcontributors.org/docs/en/emoji-key) ):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
