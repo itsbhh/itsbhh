@@ -19,11 +19,11 @@ This project named **Online Book Sales - Backend** deals with developing an e-co
 - **[How to run the webpage on your local system](#how-to-run-the-webpage-on-your-local-system)**
 - **[Using GitHub Desktop](#using-gitHub-desktop)**
 - **[Content Details](#content-details)**
-  - [MVC Diagram](#mvc-diagram)
-  - [Database Design](#database-design)
-  - [Usecase Diagram](#usecase-diagram)
-  - [Activity Diagram](#activity-diagram)
-  - [Screenshots of the Project](#screenshots-of-the-project)
+  - **[MVC Diagram](#mvc-diagram)**
+  - **[Database Design](#database-design)**
+  - **[Usecase Diagram](#usecase-diagram)**
+  - **[Activity Diagram](#activity-diagram)**
+  - **[Screenshots of the Project](#screenshots-of-the-project)**
 - **[Our Contributors](#our-contributors)**
 - **[Contact Information](#contact-information)**
 
@@ -351,7 +351,7 @@ That's it! You can now use GitHub Desktop to manage this repository efficiently.
 ![image](https://github.com/Trisha-tech/OnlineBookSales-Backend/assets/55338588/8e446cf0-ec52-4e5e-9517-68533c2c6b92)
 
 
-### 📸 Screenshots Of The Project
+### Screenshots Of The Project
 
 **1.	Customer Database (MongoDB) Schema**
 
@@ -527,12 +527,12 @@ That's it! You can now use GitHub Desktop to manage this repository efficiently.
 
  
 ## <h2 align = "center">Our Contributors </h2>
-<div align = "center">
+ <div align = "center">
  <h3>Thank you for contributing to our repository</h3>
 
-![Contributors](https://contrib.rocks/image?repo=Trisha-tech/OnlineBookSales)
+ ![Contributors](https://contrib.rocks/image?repo=Trisha-tech/OnlineBookSales)
 
-</div>
+ </div>
 
 ## Contact Information
 
