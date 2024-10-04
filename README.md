@@ -319,7 +319,7 @@ That's it! You can now use GitHub Desktop to manage this repository efficiently.
 ![image](https://github.com/Trisha-tech/OnlineBookSales-Backend/assets/55338588/368691d1-da9b-422e-b722-80da7a835c53)
 
 
-### Use-Case Diagram
+### Usecase Diagram
 
 ![image](https://github.com/Trisha-tech/OnlineBookSales-Backend/assets/55338588/1ec30aa8-08f7-44ee-9fdd-51f1dcf94ea9)
 
@@ -526,7 +526,7 @@ That's it! You can now use GitHub Desktop to manage this repository efficiently.
 
 
  
-## <h2 align = "center">Our Contributors </h2>
+## <h2 align = "center">Our Contributors</h2>
  <div align = "center">
  <h3>Thank you for contributing to our repository</h3>
 
