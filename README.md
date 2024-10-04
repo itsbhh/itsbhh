@@ -21,7 +21,7 @@ Welcome to repository of Station Guide
 - **[How to Contribute](#how-to-contribute)**
 - **[Code of Conduct](#code-of-conduct)**
 - **[How to Fork](#how-to-fork)**
-- **[Contributors ✨](#contributors-✨)**
+- **[Contributors](#contributors)**
 - **[Contact Information](#contact-information)**
 
 ## Using Station Guide
@@ -199,7 +199,7 @@ Forking allows you to create a personal copy of the repository, where you can ex
   git clone https://github.com/YOUR_USERNAME/Awesome-Github-Profiles.git
   ```
 
-## Contributors ✨
+## Contributors
 
 Thanks goes to these wonderful people  ( [emoji key](https://allcontributors.org/docs/en/emoji-key) ):
 
