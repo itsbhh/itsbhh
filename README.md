@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bhawna Anand
-   My PortFolio: https://bhawnaanand-portfolio.netlify.app/
+-  My PortFolio: https://bhawnaanand-portfolio.netlify.app/
 - 🤝 A passionate Web Developer(MERN) from India
 - 👀 I’m interested in MERN, Flutter,UI/UX...
 - 🌱 I’m currently learning AI/ML ...
@@ -15,3 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=itsbhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=itsbhh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# Badges:
+[![An image of @itsbhh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsbhh)](https://holopin.io/@itsbhh)
