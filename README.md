@@ -17,4 +17,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Badges:
+
+<b>Hacktoberfest 2024</b>
+
 [![An image of @itsbhh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itsbhh)](https://holopin.io/@itsbhh)
