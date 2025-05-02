@@ -3,7 +3,7 @@
 - 🤝 A passionate Web Developer(MERN) from India
 - 👀 I’m interested in MERN, Flutter, UI/UX, Web3...
 - 🌱 I’m currently learning AI and ML ...
-- 📫 How to reach me : anandbhawna55@gmail.com
+- 📫 How to reach me : anandbhawna40@gmail.com
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawnaanand) 
