@@ -1,16 +1,20 @@
-# ✨ Hi, I’m Bhawna Anand  
+# ✨ Hi, I’m Bhawna Anand 👋  
 
-🌍 **Portfolio:** [https://bhawnaanand-portfolio.netlify.app/]  
+🌍 **Portfolio:** [https://bhawnaanand-portfolio.netlify.app/] 
 
 ## 💫 About Me  
-- 💻 Passionate **Web Developer (MERN)** from India  
-- 🌟 Interested in **MERN, Flutter, UI/UX, Web3**  
-- 📖 Currently learning **AI & ML**  
-- 🎨 Love designing **clean & user-friendly experiences**  
+- 🧠 **Product-minded Web Developer (MERN)**  
+- 🚀 Building features that solve **real user problems**  
+- 📊 Learning **AI & ML** for data-driven product decisions  
+- 🎨 Love **clean UX, simple flows & scalable ideas**  
 
-## 📬 Connect with Me  
+## 🧩 Interests  
+`Product Thinking` • `MERN` • `UI/UX` • `Flutter` • `Web3` • `AI Products`
+
+## 📬 Let’s Connect  
 📧 **Email:** anandbhawna40@gmail.com  
 
+⭐ *Always curious about how better products are built.*
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhawnaanand) 
