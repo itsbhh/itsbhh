@@ -1,6 +1,6 @@
 # ✨ Hi, I’m Bhawna Anand 👋  
 
-🌍 **Portfolio:** [https://bhawnaanand-portfolio.netlify.app/] 
+🌍 **Portfolio:** https://bhawnaanand-portfolio.netlify.app/
 
 ## 💫 About Me  
 - 🧠 **Product-minded Web Developer (MERN)**  
