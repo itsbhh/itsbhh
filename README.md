@@ -25,6 +25,8 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=itsbhh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsbhh)](https://git.io/streak-stats)
+
 ## GSSOC(24) Stat:
 **See my stat's in Leaderboard:** [Click Here](https://gssoc.girlscript.tech/leaderboard?year=2024&username=itsbhh)
 
